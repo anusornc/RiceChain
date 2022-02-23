@@ -1,5 +1,5 @@
 # RiceChain
-Secure and Traceable Rice Supply Chain Framework Using Blockchain Technology
+//Secure and Traceable Rice Supply Chain Framework Using Blockchain Technology
 pragma solidity ^0.4.26;
 
 contract RiceChain1 {
